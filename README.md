@@ -2,7 +2,7 @@
 
 <div align="center">
 	<a href="link_for_webite">
-	<img height = "250em" src = "https://user-images.githubusercontent.com/80331486/174205946-fca931d0-ce3c-419c-9eec-2e6bddc4b1d6.png" />
+	<img height = "250em" src = "" />
     </a>
 </div>
 
@@ -21,6 +21,12 @@
 - 
 - 
 - 
+
+## Routes
+Every Route from the API can be found in [swagger](). 
+
+-
+-
 
 ## Dependencies:
 
@@ -79,7 +85,7 @@ Heres the UML that represents how the application works with their classes.
 
 Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in xx/xx/20xx until xx/xx/20xx.
 
-## Tools Used:
+### Tools Used:
 
 - 
 - 
@@ -92,7 +98,6 @@ Feel free to create a new branch, fork the project or contact one of us to devel
 ## Licence:
 
 [Apache V2](https://choosealicense.com/licenses/apache-2.0/)
-
 
 ## References:
 	
