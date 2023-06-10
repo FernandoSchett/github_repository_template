@@ -10,7 +10,11 @@
 - [<you_name>](https://github.com/<profile_username>)
 
 ## Special thanks to:
+<<<<<<< HEAD
 - [<person_name>](https://github.com/<person_name>)
+=======
+- [<person_name>](https://github.com/<profile_username>)
+>>>>>>> 2698159 ([FEAT]: new topics added, with some new templates)
 
 ## About:
 
