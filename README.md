@@ -81,7 +81,7 @@ Heres the UML that represents how the application works with their classes.
 
 <h4 align="center">Figure 3 - Relational Model Database.</h4>
 
-## Development Process 🏃:
+## Development Process ⚙️:
 
 Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in xx/xx/20xx until xx/xx/20xx.
 
