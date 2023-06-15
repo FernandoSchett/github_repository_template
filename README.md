@@ -7,7 +7,7 @@
 </div>
 
 ## Developed by 💻:
-- [<you_name>](https://github.com/<profile_username>)
+- [<you_name>](https://github.com/FernandoSchett)
 
 ## Special thanks to 🥰:
 - [<person_name>](https://github.com/<profile_username>), Your experience and knowledge have been invaluable to our progress.
@@ -41,7 +41,7 @@ For installing dependencies more quickly, you can run the following command at t
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, simply execute the <file_name> file with the command:
+First, clone this repository. After that, simply execute the ```file_name``` file with the command:
 
     sudo command_for_running_project
 
