@@ -7,7 +7,7 @@
 </div>
 
 ## Developed by 💻:
-- [<you_name>](https://github.com/FernandoSchett)
+- [<you_name>](https://github.com/FernandoSchett).
 
 ## Special thanks to 🥰:
 - [<person_name>](https://github.com/<profile_username>), Your experience and knowledge have been invaluable to our progress.
@@ -87,13 +87,13 @@ Developers used [Trello]() to get things organized, each one using their own bra
 
 ### Tools Used 🛠️: 
 
-- 
+- [Tool](http:link.com). 
 - 
 - 
 
 ## How to contribute 🫂:
 
-Feel free to create a new branch, fork the project or contact one of us to develop at <app_name>.
+Feel free to create a new branch, fork the project, , create a new Issue or make a pull request contact one of us to develop at <app_name>.
 
 ## Licence 📜:
 
