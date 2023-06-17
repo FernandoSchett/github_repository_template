@@ -100,7 +100,7 @@ Developers used [Trello]() to get things organized, each one using their own bra
 
 ## How to contribute 🫂:
 
-Feel free to create a new branch, fork the project, , create a new Issue or make a pull request contact one of us to develop at <app_name>.
+Feel free to create a new branch, fork the project, create a new Issue or make a pull request contact one of us to develop at <app_name>.
 
 ## Licence 📜:
 
