@@ -42,7 +42,9 @@ The project dependencies are described in a dependencies file within the reposit
 
 For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
 
-    sudo command_for_installing_deppendecies
+    pip3 install -r ./dependencies/requirements.txt
+
+Make sure you have all Dependencies before running the project.
 
 ## How to run it 🏃:
 
