@@ -35,13 +35,14 @@ Every Route from the API can be found in [swagger]().
 
 ## Dependencies 🚚:
 
-The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
+The project dependencies are described in  ```./dependencies/requirements.``` within the repository. In summary, heres what you're gonna need in order to run the project:
 
 - ```dependencie <version>```.
 - 
 
 For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
 
+	sudo apt update && sudo apt install python3 python3-pip
     pip3 install -r ./dependencies/requirements.txt
 
 Make sure you have all Dependencies before running the project.
