@@ -4,7 +4,7 @@
 
 <div align="center">
 	<a href="link_for_webite">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "" />
     </a>
 </div>
 
@@ -61,42 +61,33 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "" />
     </a>
 </div>
 <h4 align="center">Figure 1 - Screens from <app_name> </h4>
 
-## Logic Model 🧮:
 
-Here's the logic that represents how the application works with their classes.
-
-<div align="center">
-	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
-    </a>
-</div>
-<h4 align="center">Figure 2 - <app_name> Logic Model.</h4>
-	
 ## UML‍ 💬:
 
-Here's the UML that represents how the application works with their classes.
+Heres the UML that represents how the application works with their classes.
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "" />
     </a>
 </div>
-<h4 align="center">Figure 3 - <app_name> UML.</h4>
+<h4 align="center">Figure 2 - <app_name> UML.</h4>
+
 
 ## Database 🗃️:
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "" />
     </a>
 </div>
 
-<h4 align="center">Figure 4 - Relational Model Database.</h4>
+<h4 align="center">Figure 3 - Relational Model Database.</h4>
 
 ## Development Process ⚙️:
 
@@ -108,6 +99,10 @@ Developers used [Trello]() to get things organized, each one using their own bra
 - 
 - 
 
+For installing some tools more quickly, you can run the following command at terminal, inside the clonned repository:
+
+    sh ./dependencies/install_tools.sh
+	
 ## How to contribute 🫂:
 
 Feel free to create a new branch, fork the project, create a new Issue or make a pull request contact one of us to develop at <app_name>.
