@@ -66,18 +66,27 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 </div>
 <h4 align="center">Figure 1 - Screens from <app_name> </h4>
 
+## Logic Model 🧮:
 
-## UML‍ 💬:
-
-Heres the UML that represents how the application works with their classes.
+Here's the logic that represents how the application works with their classes.
 
 <div align="center">
 	<a href="">
 	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
     </a>
 </div>
-<h4 align="center">Figure 2 - <app_name> UML.</h4>
+<h4 align="center">Figure 2 - <app_name> Logic Model.</h4>
+	
+## UML‍ 💬:
 
+Here's the UML that represents how the application works with their classes.
+
+<div align="center">
+	<a href="">
+	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+    </a>
+</div>
+<h4 align="center">Figure 3 - <app_name> UML.</h4>
 
 ## Database 🗃️:
 
