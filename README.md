@@ -96,7 +96,7 @@ Here's the UML that represents how the application works with their classes.
     </a>
 </div>
 
-<h4 align="center">Figure 3 - Relational Model Database.</h4>
+<h4 align="center">Figure 4 - Relational Model Database.</h4>
 
 ## Development Process ⚙️:
 
