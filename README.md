@@ -37,7 +37,7 @@ Every Route from the API can be found in [swagger]().
 
 The project dependencies are described in  ```./dependencies/requirements.``` within the repository. In summary, heres what you're gonna need in order to run the project:
 
-- ```dependencie <version>```.
+- [```dependencie <version>```](http:link.com).
 - 
 
 For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
