@@ -9,7 +9,7 @@
 </div>
 
 ## Developed by 💻:
-- [<you_name>](https://github.com/FernandoSchett).
+- [<you_name>](https://linktr.ee/fernandoschett).
 
 ## Special thanks to 🥰:
 - [<person_name>](https://github.com/<profile_username>), Your experience and knowledge have been invaluable to our progress.
